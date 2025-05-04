@@ -6,13 +6,12 @@ A modern and visually appealing e-commerce mobile application built using **Flut
 
 | Home                               | All Products | Categories |
 |------------------------------------|--------------|------------|
-| ![Home](screenshots/home/home.jpg) | ![All](screenshots/home/all.jpg) | ![Category](screenshots/home/category.jpg) |
+| ![Home](assets/home/home.jpg) | ![All](assets/home/all.jpg) | ![Category](assets/home/category.jpg) |
 
 | Product Detail | Favorites | Cart |
 |----------------|-----------|------|
-| ![Detail](screenshots/home/detail.jpg) | ![Favorite](screenshots/home/favorite.jpg) | ![Cart](screenshots/home/cart.jpg) |
+| ![Detail](assets/home/detail.jpg) | ![Favorite](assets/home/favorite.jpg) | ![Cart](assets/home/cart.jpg) |
 
-> 💡 Place your screenshot images in the `/screenshots` folder and rename them accordingly (as shown above).
 
 ---
 
