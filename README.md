@@ -1,16 +1,37 @@
-# ecommerce_provider
+# 🛍️ Flutter E-Commerce App
 
-A new Flutter project.
+A modern and visually appealing e-commerce mobile application built using **Flutter**. This project features a complete shopping experience, including product listing, categories, detail views, favorites, and a shopping cart.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Home                               | All Products | Categories |
+|------------------------------------|--------------|------------|
+| ![Home](screenshots/home/home.jpg) | ![All](screenshots/home/all.jpg) | ![Category](screenshots/home/category.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
+| Product Detail | Favorites | Cart |
+|----------------|-----------|------|
+| ![Detail](screenshots/home/detail.jpg) | ![Favorite](screenshots/home/favorite.jpg) | ![Cart](screenshots/home/cart.jpg) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 💡 Place your screenshot images in the `/screenshots` folder and rename them accordingly (as shown above).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+- 🏠 Home screen with featured items and categories
+- 🛒 Add to Cart functionality
+- ❤️ Add/Remove Favorites
+- 📦 Product detail page with full descriptions
+- 🔍 Browse all products and filter by category
+- 🎯 Responsive UI for different screen sizes
+- 💾 Local state management (can be upgraded with Provider, GetX, or Bloc)
+
+---
+
+## 🧰 Tech Stack
+
+- Flutter
+- Dart
+- State Management: Provider
+- Local persistence: Shared Preferences
+
